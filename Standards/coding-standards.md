@@ -1,6 +1,6 @@
 # PHP Coding Standards
 
-The best definition good: The code must be readable and maintainable.
+The best definition of good code: The code must be readable and maintainable.
 
 **Readable** 
 Readable Code starts with the code that you find easy to read. It varies between the teams, programming languages, and companies. There are two people who are the judge of how readable the code is: You and everyone else who will later try to read the code. Think about how you could make the code more readable. Perhaps you see some functions that do too many things and are too long. Perhaps you find that renaming a variable would make its purpose clearer. Make changes until you feel like the code is as expressive, concise, and pretty as it can be.
